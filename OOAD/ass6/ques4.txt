@@ -1,0 +1,14 @@
+/*
+Tapan Goyal
+2017ucp1582	
+B-3
+*/
+
+
+					ERROR in Class XYZ:   
+Can't create non static object of the enclosed class within class definition
+
+
+							ERROR in main()     : 
+KLM *O6 = new XYZ;
+Can't assign the object of XYZ to KLM reference Object

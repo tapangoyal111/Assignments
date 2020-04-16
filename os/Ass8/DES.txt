@@ -1,0 +1,3 @@
+Message : TapanGoy
+Encrypted Message : ¾ÌèÒt<
+Decrypted Message : TapanGoy

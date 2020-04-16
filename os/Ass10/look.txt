@@ -1,0 +1,5 @@
+1. mpmc can only be implemented using thread as fork cannot make n producers/consumers
+
+2. peterson can be used only for spsc as it can be used on 2 processes only, mpmc will create multiple processes
+
+3. 
